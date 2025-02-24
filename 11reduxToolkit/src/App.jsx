@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { useState } from 'react'
 import './App.css'
-import AddTodo from './Components/addToDo'
+import AddTodo from './Components/addTodo'
 import Todos from './Components/Todos'
 
 function App() {
