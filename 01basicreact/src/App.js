@@ -3,7 +3,7 @@ import Newfunc from "./New";
 function App() {
   return (
     <>
-    <h1>Hello Tejal  </h1>
+    <h1>Hello Deepak Chavan...!</h1>
     <Newfunc/>
     </>
   );
